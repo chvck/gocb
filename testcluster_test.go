@@ -7,8 +7,8 @@ import (
 	"net/url"
 	"time"
 
+	gocbcore "github.com/chvck/gocbcore/v8"
 	"github.com/pkg/errors"
-	"gopkg.in/couchbase/gocbcore.v8"
 
 	"gopkg.in/couchbaselabs/gojcbmock.v1"
 )
