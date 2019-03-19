@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/pkg/errors"
-	"gopkg.in/couchbase/gocbcore.v8"
 
+	gocbcore "github.com/chvck/gocbcore/v8"
 	"gopkg.in/couchbaselabs/gojcbmock.v1"
 )
 

@@ -4,9 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/couchbase/gocb/cbft"
-
-	"gopkg.in/couchbase/gocbcore.v8"
+	"github.com/chvck/gocb/v2/cbft"
+	gocbcore "github.com/chvck/gocbcore/v8"
 )
 
 func TestSearchQueryServiceNotFound(t *testing.T) {

@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"gopkg.in/couchbase/gocbcore.v8"
+	gocbcore "github.com/chvck/gocbcore/v8"
 )
 
 func TestBasicAnalyticsQuery(t *testing.T) {

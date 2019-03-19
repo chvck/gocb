@@ -7,8 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"gopkg.in/couchbase/gocbcore.v8"
-
+	gocbcore "github.com/chvck/gocbcore/v8"
 	"github.com/opentracing/opentracing-go"
 	"github.com/pkg/errors"
 	"gopkg.in/couchbaselabs/jsonx.v1"
