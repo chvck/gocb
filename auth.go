@@ -1,6 +1,6 @@
 package gocb
 
-import gocbcore "github.com/chvck/gocbcore/v8"
+import gocbcore "github.com/couchbase/gocbcore/v8"
 
 // UserPassPair represents a username and password pair.
 type UserPassPair gocbcore.UserPassPair

@@ -1,6 +1,6 @@
 package gocb
 
-import gocbcore "github.com/chvck/gocbcore/v8"
+import gocbcore "github.com/couchbase/gocbcore/v8"
 
 const (
 	goCbVersionStr = "v2.0.0-dev"

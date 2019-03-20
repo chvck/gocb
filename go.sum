@@ -1,6 +1,6 @@
-github.com/chvck/gocb v1.5.0 h1:ob0F/S+qPurAAWn1P91xqvV49vjhlh0JSsMXEBwM2m8=
-github.com/chvck/gocbcore/v8 v8.0.0 h1:pZZ6rJVpA/HaR6QWM3o1zIqmBBv0eWAuEtK1si6thIg=
-github.com/chvck/gocbcore/v8 v8.0.0/go.mod h1:f+j6dlfhRyJRw1+8sXFjAJNzETMXDAwi2ukjmUM3PGg=
+github.com/couchbase/gocb v1.5.0 h1:ob0F/S+qPurAAWn1P91xqvV49vjhlh0JSsMXEBwM2m8=
+github.com/couchbase/gocbcore/v8 v8.0.0 h1:pZZ6rJVpA/HaR6QWM3o1zIqmBBv0eWAuEtK1si6thIg=
+github.com/couchbase/gocbcore/v8 v8.0.0/go.mod h1:f+j6dlfhRyJRw1+8sXFjAJNzETMXDAwi2ukjmUM3PGg=
 github.com/couchbaselabs/gocbconnstr v1.0.2 h1:R7CNfNcLrRVgkGpwR+TSMLh4V8Ij+Uwt9bCGCHJysRo=
 github.com/couchbaselabs/gocbconnstr v1.0.2/go.mod h1:Mg0VKc6azyPXhSq4b/xwsrW30ORe+H5L5hucCweYhj8=
 github.com/couchbaselabs/gojcbmock v1.0.3 h1:Ueenew8eiSM50pgHWV9+LThTB/aG29M2+LrxdjKasyU=

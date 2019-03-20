@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	gocbcore "github.com/chvck/gocbcore/v8"
+	gocbcore "github.com/couchbase/gocbcore/v8"
 	"github.com/opentracing/opentracing-go"
 	"gopkg.in/couchbaselabs/gocbconnstr.v1"
 )

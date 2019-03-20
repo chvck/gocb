@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	gocbcore "github.com/chvck/gocbcore/v8"
+	gocbcore "github.com/couchbase/gocbcore/v8"
 )
 
 // MutationToken holds the mutation state information from an operation.
