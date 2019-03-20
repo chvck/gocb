@@ -4,8 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/chvck/gocb/v2/cbft"
-	gocbcore "github.com/chvck/gocbcore/v8"
+	"github.com/chvck/gocbcore/v8"
 )
 
 func TestSearchQueryServiceNotFound(t *testing.T) {
@@ -19,7 +18,7 @@ func TestSearchQueryServiceNotFound(t *testing.T) {
 
 	q := SearchQuery{
 		Name:  "test",
-		Query: cbft.NewMatchQuery("test"),
+		Query: NewMatchQuery("test"),
 	}
 	timeout := 60 * time.Second
 

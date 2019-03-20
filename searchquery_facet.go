@@ -1,4 +1,4 @@
-package cbft
+package gocb
 
 import (
 	"encoding/json"
