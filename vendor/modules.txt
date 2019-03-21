@@ -1,5 +1,5 @@
-# github.com/chvck/gocbcore/v8 v8.0.0
-github.com/chvck/gocbcore/v8
+# github.com/couchbase/gocbcore/v8 v8.0.0-20190321104531-3349e7fa530a
+github.com/couchbase/gocbcore/v8
 # github.com/couchbaselabs/gocbconnstr v1.0.2
 github.com/couchbaselabs/gocbconnstr
 # github.com/golang/snappy v0.0.1
